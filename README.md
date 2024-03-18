@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Aswin Biju.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning python full stack development.
+- 💞️ I’m looking to collaborate on a good project that helps build my porfolio.
+- 📫 Reach me via my email.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can eat a full mandhi myself.
